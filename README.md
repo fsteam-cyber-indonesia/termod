@@ -8,12 +8,12 @@ Silahkan gunakan dengan bijak aplikasi ini
 
 
 # Langkah penginstalan
-   
-   $pkg install git
-   $git clone https://github.com/fsteam-cyber-indonesia/termod
-   $cd termod
-   $chmod +x install.sh
-   $sh install.sh
+
+$pkg install git
+$git clone https://github.com/fsteam-cyber-indonesia/termod
+$cd termod
+$chmod +x install.sh
+$sh install.sh
    
 langkah terakhir ikuti langkah penginstallan
 
