@@ -17,8 +17,9 @@ $cd termod
 
 $chmod +x install.sh
 
-$sh install.sh
-   
+$./install.sh
+
+$sh x1.sh
 langkah terakhir ikuti langkah penginstallan
 
 by Mr614ck12
