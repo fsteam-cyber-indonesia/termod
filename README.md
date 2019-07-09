@@ -20,7 +20,8 @@ $chmod +x install.sh
 $./install.sh
 
 $sh x1.sh
-langkah terakhir ikuti langkah penginstallan
+
+Langkah terakhir ikuti langkah penginstallan
 
 by Mr614ck12
 
