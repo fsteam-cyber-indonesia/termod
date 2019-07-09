@@ -15,8 +15,6 @@ mv motd fs12
 cd
 cd termod
 mv motd /data/data/com.termux/files/usr/etc
-cp motd /data/data/com.termux/files/usr/etc
-sleep 2
 clear
 echo "$me" Menginstall MOD
 cd 
@@ -24,12 +22,14 @@ cd /data/data/com.termux/files/usr/etc
 mv .zshrc zfs12
 cd 
 cd termod
-cp .zshrc /data/data/com.termux/files/usr/etc
-cd termod
 mv .zshrc /data/data/com.termux/files/usr/etc
 clear
 clear
 cd 
 rm -rf termod
+cd
+rm -rf termux-ohmyzsh
 echo "$pu" suksess install mod
 echo "$me" silahkan restar hp anda
+sleep 1
+exit
