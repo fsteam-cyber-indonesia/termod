@@ -36,4 +36,5 @@ echo "$me" Install Mod
 sleep 3
 sleep 1
 clear
+cd termod
 sh x1.sh
